@@ -3,3 +3,5 @@ Welcome to Git...
 Updated Welcome File
 
 test
+
+Bug 1 Fixed
