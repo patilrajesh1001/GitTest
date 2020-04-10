@@ -1,15 +1,6 @@
 Welcome to Git...
 
-Updated Welcome File
+Master Line:Added
 
-test
-
-Bug 1 Fixed changed in master
-
-Added in Master
-
-Bug 1 Fixed added
-
-Created CR Branch- Created CR2
 
 
