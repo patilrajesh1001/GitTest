@@ -4,4 +4,6 @@ Updated Welcome File
 
 test
 
-Bug 1 Fixed
+Bug 1 Fixed changed in master
+
+Added in Master
